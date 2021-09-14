@@ -1,0 +1,21 @@
+body {
+
+    background-color:pink;
+    opacity:0.88;
+    font-family:sans-serif;
+    font-size: 16px;
+    text-align:right;
+}
+
+h1{
+    text-align:center;
+    color:white;
+    font-family:sans-serif,Verdana;
+
+}
+
+h2 {
+    color:red;
+    text-align:center;
+    font-size:99px;
+}
